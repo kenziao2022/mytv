@@ -1,8 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:0,凤凰资讯
-https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:0,凤凰卫视
-https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:0,天津卫视高清频道
 rtp://225.1.1.111:5002
 #EXTINF:0,天津新闻高清
