@@ -46,4 +46,9 @@ TVBS亚洲，http://67.211.73.118:9901http://iptv.tvfix.org/hls/tvbs.m3u8
 翡翠台,http://2.2.2.2/hls/80/index.m3u8
 无线新闻台,http://2.2.2.2/hls/82/index.m3u8#http://67.211.73.118:9901http://iptv.tvfix.org/hls/inews.m3u8
 民视新闻,http://2.2.2.2/hls/98/index.m3u8
+ViuTV,http://67.211.73.118:9901http://iptv.tvfix.org/hls/viutv.m3u8
+ViuTV6,http://67.211.73.118:9901http://iptv.tvfix.org/hls/viutv6.m3u8
+天映频道,http://67.211.73.118:9901http://iptv.tvfix.org/hls/typd.m3u8
+天映经典,http://67.211.73.118:9901http://iptv.tvfix.org/hls/tyjd.m3u8
+星空卫视,http://67.211.73.118:9901http://iptv.tvfix.org/hls/startv.m3u8
 
